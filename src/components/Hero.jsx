@@ -22,7 +22,7 @@ function Hero() {
         className="flex flex-col justify-center px-5 py-32 bg-black img1 back text-slate-400 font-montserrat md:flex-row"
       >
         <div className="relative flex flex-col md:w-1/2 pt-[100px]">
-          <h1 className="text-4xl font-semibold text-slate-400 font-poppins ">
+          <h1 className="text-5xl font-semibold text-slate-400 font-poppins ">
             Hii ! <br />I am{" "}
             <span className="text-4xl font-bold font-rowdies hover:text-white"> NIVESHHRAJ </span>
             <p className="text-2xl text-white font-montserrat">
