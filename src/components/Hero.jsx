@@ -24,7 +24,7 @@ function Hero() {
         <div className="relative flex flex-col md:w-1/2 pt-[100px]">
           <h1 className="text-4xl font-semibold text-slate-400 font-poppins ">
             Hii ! <br />I am{" "}
-            <span className="text-6xl font-bold font-rowdies hover:text-white"> NIVESHHRAJ </span>
+            <span className="text-4xl font-bold font-rowdies hover:text-white"> NIVESHHRAJ </span>
             <p className="text-2xl text-white font-montserrat">
               {config.subtitle}
             </p>
